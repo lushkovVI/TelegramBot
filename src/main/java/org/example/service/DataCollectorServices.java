@@ -46,7 +46,7 @@ public class DataCollectorServices extends Thread{
 
         while(true)
         {
-            if(hour == 11 ){
+            if(hour == 18 ){
 
                 try {
                     deleteFromDailyDomains();
